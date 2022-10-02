@@ -10,4 +10,4 @@ Original:
 My version:
 
 
-![](https://github.com/mitchell-jones/sieve-of-eratosthenes/sieve-of-eratosthenes.gif)
+![](https://raw.githubusercontent.com/mitchell-jones/sieve-of-eratosthenes/main/sieve-of-eratosthenes.gif)
