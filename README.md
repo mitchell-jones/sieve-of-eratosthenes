@@ -10,4 +10,4 @@ Original:
 My version:
 
 
-(![]([(https://github.com/mitchell-jones/sieve-of-eratosthenes/Sieve of Eratosthenes.gif)])
+![](https://github.com/mitchell-jones/sieve-of-eratosthenes/Sieve of Eratosthenes.gif)
